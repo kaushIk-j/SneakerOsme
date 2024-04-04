@@ -1,16 +1,7 @@
 
-# DadSneakers
+# SneakerOsme
 
-E-commerce website for a sneaker brand "DadSneakers" built in ReactJs. 
-
-
-## Screenshots
-
-
-
-## Demo
-
-
+E-commerce website for a sneaker brand "SneakerOsme" built in ReactJs. 
 
 
 ## Tech Stack
@@ -56,7 +47,7 @@ E-commerce website for a sneaker brand "DadSneakers" built in ReactJs.
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/kaushIk-j/SneakerOsme.git
 ```
 
 Go to the project directory
