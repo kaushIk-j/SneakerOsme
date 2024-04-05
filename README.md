@@ -9,7 +9,6 @@ E-commerce website for a sneaker brand "SneakerOsme" built in ReactJs.
 - Frontend: React.js, HTML, CSS
 - Backend: MockBee
 - Payment Integration: Razorpay
-- Deployment: Netlify
 - Other Libraries and Tools: React Router, Axios, JWT, etc.
 
 ## Features
@@ -42,30 +41,6 @@ E-commerce website for a sneaker brand "SneakerOsme" built in ReactJs.
 
 
 
-## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/kaushIk-j/SneakerOsme.git
-```
-
-Go to the project directory
-
-```bash
-  cd react-sneakers-app
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
